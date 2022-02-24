@@ -4,7 +4,7 @@ This repository contains the code to generate keywords for topics based on Wikip
 
 # If you are interested in the project...
 
-... go to https://github.com/bizres to read up on our project.
+... go to our [main repository](https://github.com/bizres) to read up on our project.
 
 # If you are interested in the code...
 
